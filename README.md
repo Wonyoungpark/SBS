@@ -16,7 +16,7 @@
   - [페르소나1](https://docs.google.com/document/d/177oF40yOXLBwBvzYbC-PbweqGM_7tttTZ4rnGomwWe8/edit?usp=sharing) , [페르소나2](https://drive.google.com/file/d/1N5T9e9iMX8qOMJrmIrrApUZ9ymDws71v/view?usp=sharing) , [페르소나3](https://drive.google.com/file/d/1N7D8F-4TaIxScIJrRejJj56mv-tMlNN_/view?usp=sharing)
   
 ## - Mock-up (2차발표)
-#### [스토리보드](https://1drv.ms/p/s!AoTcRiOEPeaPiVmRq-CGxtiJTwCS)
+#### [스토리보드](https://1drv.ms/p/s!AoTcRiOEPeaPiVmRq-CGxtiJTwCS), [발표본](https://1drv.ms/p/s!AoTcRiOEPeaPiWP4DF9MQETKbvQA)
    
    - [UI 초안](https://drive.google.com/file/d/1s3AxALfG90qx0ubY6BRRbWhNnQLxfNzQ/view?usp=sharing)
   
