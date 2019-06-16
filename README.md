@@ -23,6 +23,9 @@
    
    - [UI 초안](https://drive.google.com/file/d/1s3AxALfG90qx0ubY6BRRbWhNnQLxfNzQ/view?usp=sharing)
   
+## - 데이터베이스 구축 (3차발표)
+#### [발표본](https://1drv.ms/p/s!AoTcRiOEPeaPiWP4DF9MQETKbvQA)
+ 
 ### - 회의록
   - [1차 (19.3.28)](https://docs.google.com/document/d/1btrzG0bbsF_OfzqA8BQCIPBE6a0q6FF0kYlY8lrOnic/edit)
   
